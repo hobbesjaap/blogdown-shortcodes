@@ -2,7 +2,7 @@
 
 - 📝 I still need to improve the example.Rmd files and tidy up the .R files. So these shortcodes work, but do require a bit of manual tinkering to work outside of my own websites. I'll fix this for a 1.0 release! Currently the ID attribute doesn't actually link, but they're helpful since the shortcode pulls from the row number, so I've manually written my IDs to correspond to that.
 
-A (growing) collection of Blogdown shortcodes I've written myself in R.
+A (growing) collection of [Blogdown](https://github.com/rstudio/blogdown) shortcodes I've written myself in R.
 
 If you are completely unfamiliar with Blogdown, R and/or RStudio, then you may struggle to use this. I would advise you to have a go at setting up a very basic Blogdown website and playing around with that first. If you're then interested in some of these shortcodes, come back here and you'll be able to understand this much better.
 

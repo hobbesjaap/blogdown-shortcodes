@@ -36,6 +36,12 @@ Install steps:
 4. Make sure your CSV file contains a correct image link + alt-text description for the image you want to pin
 5. Copy & modify the pinterest.css file to your liking. It helps to centrally manage your pin image sizes. You may not want this, so feel free to remove/adjust.
 
+You can then call the pinterest-image in your Rmd file as follows, where **xx** equals the ID for your download:
+
+```
+`r pinterest(xx)`
+```
+
 ## Downloads
 
 A very basic downloads manager. It doesn't depend on a database to function, but on a CSV file. Examples included. By linking your PDF/ZIP/DOCX downloads into the CSV file, you are able to easily call up a nice-looking download-box anywhere on any page linking to your resource. It includes the option to have a screenshot (max height/width set to 150px) for your file too.

@@ -1,8 +1,4 @@
-# blogdown-shortcodes
-
-<p align="right">
-<img src="./hexsticker_script/hexsticker.png">
-</p>
+# blogdown-shortcodes <a href="https://github.com/hobbesjaap/blogdown-shortcodes"><img src="hexsticker_script/hexsticker.png" align="right" width="150" class="logo"/></a>
 
 - 📝 I still need to improve the example.Rmd files and tidy up the .R files. So these shortcodes work, but do require a bit of manual tinkering to work outside of my own websites. I'll fix this for a 1.0 release! Currently the ID attribute doesn't actually link, but they're helpful since the shortcode pulls from the row number, so I've manually written my IDs to correspond to that.
 
